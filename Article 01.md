@@ -29,16 +29,12 @@ Porphyry copper gold deposits, alteration mapping, hyperspectral, Chagai
 
 ## Published By
 
-This Article is Published by the following [GEOLOGICA](https://geologica.gov.pk/) in 
+This Article is Published by the [GEOLOGICA](https://geologica.gov.pk/) in 
 - [Volume 8](https://geologica.gov.pk/volume8/)
 
 
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![DOI](https://img.shields.io/badge/License-DOI-blue.svg)](https://choosealicense.com/licenses/mit/)
-
+## Indexed In
+[![DOI](https://zenodo.org/badge/799917811.svg)](https://zenodo.org/doi/10.5281/zenodo.11189406)
 
 [![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-darkgreen.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
 
