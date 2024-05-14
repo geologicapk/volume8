@@ -37,7 +37,7 @@ This Article is Published by the following [GEOLOGICA](https://geologica.gov.pk/
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![DOI](https://img.shields.io/badge/License-DOI-blue.svg)](https://choosealicense.com/licenses/mit/)
 
 
 [![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-darkgreen.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
