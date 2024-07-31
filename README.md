@@ -1,7 +1,7 @@
 # volume8
 
 
-<p><a href="https://geologica.gov.pk/">GEOLOGICA (An International Journal of Earth Sciences)</a><br><br>
+<p><a href="https://geologica.gov.pk/">GEOLOGICA (An International Journal of Earth Sciences)</a><br><br><a href="https://orcid.org/0009-0009-9318-0541"><img src="https://img.shields.io/badge/ORCID-0009--0009--9318--0541-green?labelColor=grey" alt="ORCID"></a>
 	
 <a href="https://geologica.gov.pk/volume8/">Volume 08</a><br>
 <a href="https://geologica.gov.pk/volume8/29/04/2024/mapping-of-alteration-minerals-to-find-new-porphyry-copper-gold-targets-in-chagai-belt-balochistan-using-false-color-composite-spectr-alangle-mapper-field-sampling-and-spectral-measurement-technique/2245/">Article 01</a>
